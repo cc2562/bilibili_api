@@ -2,7 +2,7 @@ name: bilibili_api
 description: A comprehensive Flutter package for Bilibili Web API integration. Supports QR login, video/user queries, search, video actions, and dynamic feeds with WBI signature.
 version: 0.0.1
 # TODO: Replace with your actual GitHub repository URL before publishing
-# repository: https://github.com/yourusername/bilibili_api
+repository: https://github.com/cc2562/bilibili_api
 
 environment:
   sdk: ^3.9.2

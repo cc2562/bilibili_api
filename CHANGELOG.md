@@ -106,4 +106,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - User advanced statistics
 - Full typed dynamic models (if needed)
 
-[0.0.1]: https://github.com/yourusername/bilibili_api/releases/tag/v0.0.1
+[0.0.1]: https://github.com/cc2562/bilibili_api/releases/tag/v0.0.1
